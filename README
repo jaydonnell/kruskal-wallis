@@ -1,17 +1,5 @@
 # kw
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## Installation
-
-FIXME: write
-
-## License
-
-Copyright (C) 2010 FIXME
+This is a clojure implementation of the kruskal-wallis test http://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance
 
 Distributed under the Eclipse Public License, the same as Clojure.
